@@ -12,6 +12,7 @@ Architecture-led, AI-assisted engineering: the developer defines pipeline shape 
 |---------|---------|
 | [`stubborn-stub`](https://pypi.org/project/stubborn-stub/) | **0.9.0b4** |
 | [`stubborn-mcp`](https://pypi.org/project/stubborn-mcp/) | **0.1.0b1** |
+| [`stubborn-watch`](https://pypi.org/project/stubborn-watch/) | **0.1.0b1** |
 
 ### Repositories
 
@@ -20,6 +21,9 @@ Architecture-led, AI-assisted engineering: the developer defines pipeline shape 
 | [stubborn-hub](https://github.com/stubborn-ai/stubborn-hub) | Program docs & architecture |
 | [stubborn](https://github.com/stubborn-ai/stubborn) | Core compiler |
 | [stubborn-mcp](https://github.com/stubborn-ai/stubborn-mcp) | MCP server for agents |
+| [stubborn-watch](https://github.com/stubborn-ai/stubborn-watch) | Dev loop orchestration |
+| [stubborn-demo](https://github.com/stubborn-ai/stubborn-demo) | Runnable demos & validation |
+| [vscode-stubborn](https://github.com/stubborn-ai/vscode-stubborn) | Planned VS Code bridge |
 
 [Start here →](https://github.com/stubborn-ai/stubborn-hub/blob/main/docs/START-HERE.md)
 
