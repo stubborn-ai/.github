@@ -6,15 +6,20 @@ Architecture-led, AI-assisted engineering: the developer defines pipeline shape 
 
 ---
 
+### PyPI
+
+| Package | Version |
+|---------|---------|
+| [`stubborn-stub`](https://pypi.org/project/stubborn-stub/) | **0.9.0b4** |
+| [`stubborn-mcp`](https://pypi.org/project/stubborn-mcp/) | **0.1.0b1** |
+
 ### Repositories
 
-| Repository | Role | Status |
-|------------|------|--------|
-| [stubborn-hub](https://github.com/stubborn-ai/stubborn-hub) | Program docs & architecture | Active |
-| [stubborn](https://github.com/stubborn-ai/stubborn) | Core compiler — SCIP → SQLite → prune → weave | **Beta** (`0.9.0b3`) |
-| [stubborn-mcp](https://github.com/stubborn-ai/stubborn-mcp) | MCP server for agents | **Beta** (`0.1.0b1`) |
-
-SCIP symbol graph → token-bounded stub text for agents and CI · Java-first beta
+| Repository | Role |
+|------------|------|
+| [stubborn-hub](https://github.com/stubborn-ai/stubborn-hub) | Program docs & architecture |
+| [stubborn](https://github.com/stubborn-ai/stubborn) | Core compiler |
+| [stubborn-mcp](https://github.com/stubborn-ai/stubborn-mcp) | MCP server for agents |
 
 [Start here →](https://github.com/stubborn-ai/stubborn-hub/blob/main/docs/START-HERE.md)
 
