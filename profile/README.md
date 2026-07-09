@@ -13,8 +13,7 @@ Architecture-led, AI-assisted engineering: the developer defines pipeline shape 
 | [`stubborn-stub`](https://pypi.org/project/stubborn-stub/) | **0.9.0b5** |
 | [`stubborn-mcp`](https://pypi.org/project/stubborn-mcp/) | **0.1.0b2** |
 | [`stubborn-watch`](https://pypi.org/project/stubborn-watch/) | **0.1.0b2** |
-
-**Repo beta (PyPI pending):** [`stubborn-status`](https://github.com/stubborn-ai/stubborn-status) **0.1.0b1**
+| [`stubborn-status`](https://pypi.org/project/stubborn-status/) | **0.1.0b1** |
 
 ### Repositories
 
