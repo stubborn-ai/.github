@@ -2,7 +2,12 @@
 
 **Deterministic LLM context compiler for SCIP-indexed codebases.**
 
-Architecture-led, AI-assisted engineering: the developer defines pipeline shape and contracts; AI implements most of the code; the product is **deterministic Python** — same SCIP → same context.
+```bash
+pip install stubborn-stub
+stubborn try
+```
+
+[Program map →](https://github.com/stubborn-ai/stubborn-hub/blob/main/docs/START-HERE.md)
 
 ---
 
@@ -10,7 +15,7 @@ Architecture-led, AI-assisted engineering: the developer defines pipeline shape 
 
 | Package | Version |
 |---------|---------|
-| [`stubborn-stub`](https://pypi.org/project/stubborn-stub/) | **0.9.0b6** |
+| [`stubborn-stub`](https://pypi.org/project/stubborn-stub/) | **0.9.0b7** |
 | [`stubborn-mcp`](https://pypi.org/project/stubborn-mcp/) | **0.1.0b3** |
 | [`stubborn-watch`](https://pypi.org/project/stubborn-watch/) | **0.1.0b3** |
 | [`stubborn-status`](https://pypi.org/project/stubborn-status/) | **0.1.0b1** |
@@ -26,8 +31,6 @@ Architecture-led, AI-assisted engineering: the developer defines pipeline shape 
 | [stubborn-status](https://github.com/stubborn-ai/stubborn-status) | Federated doctor aggregation |
 | [stubborn-demo](https://github.com/stubborn-ai/stubborn-demo) | Runnable demos & validation |
 | [vscode-stubborn](https://github.com/stubborn-ai/vscode-stubborn) | Planned VS Code bridge |
-
-[Start here →](https://github.com/stubborn-ai/stubborn-hub/blob/main/docs/START-HERE.md)
 
 ---
 
