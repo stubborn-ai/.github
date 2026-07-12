@@ -15,10 +15,10 @@ stubborn try
 
 | Package | Version |
 |---------|---------|
-| [`stubborn-stub`](https://pypi.org/project/stubborn-stub/) | **0.10.0b1** |
-| [`stubborn-mcp`](https://pypi.org/project/stubborn-mcp/) | **0.10.0b1** |
-| [`stubborn-watch`](https://pypi.org/project/stubborn-watch/) | **0.10.0b1** |
-| [`stubborn-status`](https://pypi.org/project/stubborn-status/) | **0.10.0b1** |
+| [`stubborn-stub`](https://pypi.org/project/stubborn-stub/) | **0.10.0b2** |
+| [`stubborn-mcp`](https://pypi.org/project/stubborn-mcp/) | **0.10.0b2** |
+| [`stubborn-watch`](https://pypi.org/project/stubborn-watch/) | **0.10.0b2** |
+| [`stubborn-status`](https://pypi.org/project/stubborn-status/) | **0.10.0b2** |
 
 ### Repositories
 
